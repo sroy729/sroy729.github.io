@@ -3,9 +3,8 @@ permalink: /courses/
 title: "Courses"
 ---
 
-### Courses
 
-The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
+The courses I have taken at IIT Bombay are listed below in reverse chronological order.
 **(*)indicates it's an ongoing course**
 
 - **CS 230** : Digital Logic Design and Computer Architecture, Spring 2023

@@ -18,7 +18,7 @@ I graduated with Btech in Electronics and Communication from MAIT, Delhi in June
 
 If I am not working on my computer, you can find me playing football. Most of my past work is open-source, thanks to my organization and collaborators. I love collaborating on open-source projects. Reach out to me!
 
-### Education
+## Education
 
 - **Ph.D. in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
 - **B.Tech in Electronics and Communication**<br>_2017 - 2021_ &#124; <br>[Maharaja Agarasen Institute of Technology](https://mait.ac.in/)
@@ -28,7 +28,7 @@ If I am not working on my computer, you can find me playing football. Most of my
 {: .notice--primary} -->
 
 ---
-### Service
+## Service
 
 **Program committee:**
 - 2024: ISCA, artifact evaluation 

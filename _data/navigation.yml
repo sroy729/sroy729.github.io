@@ -1,3 +1,6 @@
 main:
   - title: "Extras"
     url: /extras/
+
+  - title: "Courses"
+    url: /courses/

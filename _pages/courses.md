@@ -14,6 +14,6 @@ The courses I have taken at IIT Bombay are listed below in reverse chronological
 - **CS 337, 335** : Artificial Intelligence and Machine Learning, AI and ML Lab, Autumn 2023
 - **CS 683** : Advance Computer Architecture, Autumn 2023
 - **CS 744** : Design and Engineering of Computing Systems, Autumn 2023
-- **CS 695\*** : Topics in virtulization and cloud computing, Spring 2024 
+- **CS 695\** : Topics in virtualization and cloud computing, Spring 2024 
 
 

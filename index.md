@@ -12,7 +12,7 @@ permalink: /
 #     text: "More text here."
 ---
 
-Namaskar, I'm currently a second year PhD. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa Panda](https://www.cse.iitb.ac.in/~biswa/) exploring microarchitectural security. The focus of my current work is in microarchitectural security in GPUs. Our [research group](https://casper-iitb.github.io/).
+Namaskar, I'm currently a third year PhD. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa Panda](https://www.cse.iitb.ac.in/~biswa/) exploring microarchitectural security. The focus of my current work is in microarchitectural security in GPUs. Our [research group](https://casper-iitb.github.io/).
 
 I graduated with Btech in Electronics and Communication from MAIT, Delhi in June 2021. After that I worked as a RTL design engineer at [Incore Semicounductors](https://incoresemi.com/) for about one and a half year, some quick mentions of the area I worked on while working there are RISCV based core, hypervisor, TLBs, Pagetable walk etc.
 

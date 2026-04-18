@@ -60,9 +60,9 @@ plugins:
 author:
   name    : "Shubham Roy"
   avatar  : "/assets/images/photo.jpg"
-  bio     : "Computer Architecture PhD student at IIT Bombay."
+  bio     : "Research Scholar at IIT Bombay."
   location: "Trust Lab, IIT Bombay"
-  email   : "22d0378@cse.iitb.ac.in"
+  email   : "royshubham@cse.iitb.ac.in"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -85,9 +85,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sroy729"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts

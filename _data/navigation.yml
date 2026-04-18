@@ -1,4 +1,7 @@
 main:
+  - title: "Publications"
+    url: /publications/
+    
   - title: "Extras"
     url: /extras/
 

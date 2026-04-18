@@ -18,6 +18,10 @@ I graduated with Btech in Electronics and Communication from MAIT, Delhi in June
 
 If I am not working on my computer, you can find me playing football. Most of my past work is open-source, thanks to my organization and collaborators. I love collaborating on open-source projects. Reach out to me!
 
+
+## News
+- **Mar 28, 2026**: Our paper "PRowhammer" got accepted at ISCA 2026.
+
 ## Education
 
 - **Ph.D. in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)

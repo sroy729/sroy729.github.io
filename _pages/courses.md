@@ -6,6 +6,7 @@ title: "Courses"
 
 The courses I have taken at IIT Bombay are listed below in reverse chronological order.
 **(*)indicates it's an ongoing course**
+{: style="font-size: 0.8em; margin-top: 0;"}
 
 - **CS 230, CS 232** : Digital Logic Design and Computer Architecture, Lab, Spring 2023
 - **CS 681** : Performance Analysis of Computer Systems and Networks, Spring 2023
@@ -18,5 +19,5 @@ The courses I have taken at IIT Bombay are listed below in reverse chronological
 - **ME 766** : High Performance Scientific Computing, Autumn 2024
 - **CS 684** : Embedded Systems, Spring 2025
 - **CS 790** : Privacy Enhancing Technologies, Autumn 2025
-
+{: style="font-size: 0.7em; margin-top: 0;"}
 

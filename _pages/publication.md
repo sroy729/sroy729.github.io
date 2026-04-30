@@ -12,6 +12,8 @@ Mrityunjay Shukla\*, **Shubham Roy**, Sayandeep Saha, Biswabandan Panda
 \* denotes primary author
 {: style="font-size: 0.8em;"}
 
+[PDF](https://sroy729.github.io/assets/papers/ISCA2026.pdf){: .btn .btn--danger .btn--small} [Code](https://zenodo.org/records/19326670){: .btn .btn--info .btn--small}
+
 ---
 
 *More publications coming soon.*

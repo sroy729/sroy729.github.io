@@ -12,27 +12,26 @@ permalink: /
 #     text: "More text here."
 ---
 
-Namaskar, I'm currently a third year PhD. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa Panda](https://www.cse.iitb.ac.in/~biswa/) exploring microarchitectural security. The focus of my current work is in microarchitectural security in GPUs. Our [research group](https://casper-iitb.github.io/).
+Namaskar, I'm currently a fourth year Ph.D. student at IIT Bombay's [Computer Science and Engineering](https://www.cse.iitb.ac.in/) department. I am working with [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) exploring microarchitectural security. The focus of my current work is in microarchitectural security in GPUs. Our [research group](https://casper-iitb.github.io/).
 
-I graduated with Btech in Electronics and Communication from MAIT, Delhi in June 2021. After that I worked as a RTL design engineer at [Incore Semicounductors](https://incoresemi.com/) for about one and a half year, some quick mentions of the area I worked on while working there are RISCV based core, hypervisor, TLBs, Pagetable walk etc.
+I graduated with B.Tech. in Electronics and Communication from MAIT, Delhi in June 2021. After that, I worked as an RTL design engineer at [Incore Semicounductors](https://incoresemi.com/) for about one and a half year. Some quick mentions of the areas that I worked on were hypervisor, TLBs, Page Table Walker (PTW), for RISC-V based processor.
 
 If I am not working on my computer, you can find me playing football. Most of my past work is open-source, thanks to my organization and collaborators. I love collaborating on open-source projects. Reach out to me!
 
 
 ## News
-- **Mar 28, 2026**: Our paper "PRowhammer" got accepted at ISCA 2026.
+- **Mar 28, 2026**: Our paper "[PRowhammer](https://www.cse.iitb.ac.in/~biswa/ISCA2026.pdf)" got accepted at [ISCA 2026](https://iscaconf.org/isca2026/).
 
 ## Education
 
 - **Ph.D. in Computer Science and Engineering**<br>_2023 - Present_ &#124; <br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
 - **B.Tech in Electronics and Communication**<br>_2017 - 2021_ &#124; <br>[Maharaja Agarasen Institute of Technology](https://mait.ac.in/)
-- **HS in Science**<br>_2015 - 2017_ &#124; <br>[Kendriya Vidyalaya Sector VIII RK Puram](https://rkpuramsec8.kvs.ac.in/)
 
 <!-- To download my résumé click <a href="./assets/pdf/Debojeet_s_Resume.pdf" title="Download Resume" download="debojeetDasResume"><span>here </span><i class="fas fa-download" aria-hidden="true"></i></a><br>
 {: .notice--primary} -->
 
 ---
-## Service
+## Professional Services
 
 **Program committee:**
 - 2024: ISCA, artifact evaluation 
